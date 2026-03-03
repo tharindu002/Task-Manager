@@ -120,14 +120,14 @@ Tasks are serialized to JSON using Gson before storage.
 #  Screenshots
 
 ##  Add Task
-![Add Task](https://raw.githubusercontent.com/tharindu002/task-app/3fcb56500c70580a1647a1474b91631465954046/AddTask.png)
+![Add Task](https://github.com/tharindu002/Task-Manager/blob/9f767255ac51ae7898cb31a2b7b6a8b61bfc5911/ss/AddTask.png)
 
 ---
 
 ##  Delete Task (Landscape)
-![Delete Task](https://raw.githubusercontent.com/tharindu002/task-app/3fcb56500c70580a1647a1474b91631465954046/DeleteTask.png)
+![Delete Task](https://github.com/tharindu002/Task-Manager/blob/9f767255ac51ae7898cb31a2b7b6a8b61bfc5911/ss/DeleteTask-2.png)
 
-![Delete Task 2](https://raw.githubusercontent.com/tharindu002/task-app/3fcb56500c70580a1647a1474b91631465954046/DeleteTask-2.png)
+![Delete Task 2](https://github.com/tharindu002/Task-Manager/blob/9f767255ac51ae7898cb31a2b7b6a8b61bfc5911/ss/DeleteTask.png)
 
 ---
 
@@ -139,7 +139,7 @@ Tasks are serialized to JSON using Gson before storage.
 ---
 
 ##  Update Task (Portrait)
-![Portrait Update](https://raw.githubusercontent.com/tharindu002/task-app/3fcb56500c70580a1647a1474b91631465954046/Porttrate%20TaskUpdate.png)
+![Portrait Update](https://github.com/tharindu002/Task-Manager/blob/9f767255ac51ae7898cb31a2b7b6a8b61bfc5911/ss/UpdateTask.png)
 
 ---
 
@@ -149,7 +149,7 @@ Tasks are serialized to JSON using Gson before storage.
 ---
 
 ##  Task List
-![Task List](https://raw.githubusercontent.com/tharindu002/task-app/3fcb56500c70580a1647a1474b91631465954046/TaskList.png)
+![Task List](https://github.com/tharindu002/Task-Manager/blob/9f767255ac51ae7898cb31a2b7b6a8b61bfc5911/ss/TaskList.png)
 
 #  Student Information
 
@@ -159,6 +159,7 @@ Tasks are serialized to JSON using Gson before storage.
 - **Assignment:** 03
 
 ---
+
 
 
 
