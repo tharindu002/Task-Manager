@@ -124,17 +124,17 @@ Tasks are serialized to JSON using Gson before storage.
 
 ---
 
-##  Delete Task (Landscape)
+##  Delete Task (Portrait)
 ![Delete Task](https://github.com/tharindu002/Task-Manager/blob/9f767255ac51ae7898cb31a2b7b6a8b61bfc5911/ss/DeleteTask-2.png)
 
 ![Delete Task 2](https://github.com/tharindu002/Task-Manager/blob/9f767255ac51ae7898cb31a2b7b6a8b61bfc5911/ss/DeleteTask.png)
 
 ---
 
-##  Delete Task (Portrait)
-![Portrait Delete 1](https://raw.githubusercontent.com/tharindu002/task-app/3fcb56500c70580a1647a1474b91631465954046/Portrate%20delete%20-1.png)
+##  Delete Task (Landscape)
+![Landscape Delete 1](https://github.com/tharindu002/Task-Manager/blob/e67f108974aa9e26d46d9b984d1b0274cbeb782f/ss/Porttrate%20Delete.png)
 
-![Portrait Delete 2](https://raw.githubusercontent.com/tharindu002/task-app/3fcb56500c70580a1647a1474b91631465954046/Porttrate%20Delete.png)
+![Landscape Delete 2](https://github.com/tharindu002/Task-Manager/blob/e67f108974aa9e26d46d9b984d1b0274cbeb782f/ss/Porttrate%20TaskUpdate.png)
 
 ---
 
@@ -159,6 +159,7 @@ Tasks are serialized to JSON using Gson before storage.
 - **Assignment:** 03
 
 ---
+
 
 
 
