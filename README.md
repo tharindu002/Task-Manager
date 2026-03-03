@@ -144,7 +144,7 @@ Tasks are serialized to JSON using Gson before storage.
 ---
 
 ##  Add Task (Portrait)
-![Portrait Add](https://raw.githubusercontent.com/tharindu002/task-app/3fcb56500c70580a1647a1474b91631465954046/Porttrate%20taskAdd.png)
+![Portrait Add](https://github.com/tharindu002/Task-Manager/blob/561cf8790e96625986374f61220408ac2d7e503c/ss/Porttrate%20taskAdd.png)
 
 ---
 
@@ -159,6 +159,7 @@ Tasks are serialized to JSON using Gson before storage.
 - **Assignment:** 03
 
 ---
+
 
 
 
